@@ -1,6 +1,6 @@
 ## Hi there 👋
  
-- A B.Tech Engineer from KJ Somaiya College of Engineering with analytical and detail-oriented strong problem solving skills and a passion for Business and Data Science & Analytics. I am dedicated to leverage academic excellence and strong interpersonal skills to drive growth.
+- A B.Tech Engineer from KJ Somaiya College of Engineering, Mumbai with analytical and detail-oriented strong problem solving skills and a passion for Business and Data Science & Analytics. I am dedicated to leverage academic excellence and strong interpersonal skills to drive growth.
 - I am currently pursuing Professional Certification in Data Science & Analytics from Imarticus Learning.
 <!--
 **bhindeshubh/bhindeshubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
